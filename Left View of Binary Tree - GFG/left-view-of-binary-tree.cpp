@@ -131,9 +131,8 @@ struct Node
      if(node == NULL) return;
      
      if(ans.size() == level) ans.push_back(node->data);
-     dfs(node->left, level+1, ans);
-     dfs(node->right, level+1, ans);
-     
+     dfs(node->left, level + 1, ans);
+     dfs(node->right, level + 1, ans);
  }
 
 //Function to return a list containing elements of left view of the binary tree.
