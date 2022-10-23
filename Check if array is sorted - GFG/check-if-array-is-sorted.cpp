@@ -11,6 +11,7 @@ class Solution {
   public:
     bool arraySortedOrNot(int arr[], int n) {
         // code here
+        //T.C. => O(N^2)
         // for(int i = 0; i < n; i++) {
         //     for(int j = i + 1; j < n; j++){
         //         if(arr[j] < arr[i])
@@ -19,7 +20,7 @@ class Solution {
         // }
         // return true;
         
-        
+        //T.C. => O(N)
         for(int i = 1; i < n; i++) {
                 if(arr[i] < arr[i-1])
                 return false;
