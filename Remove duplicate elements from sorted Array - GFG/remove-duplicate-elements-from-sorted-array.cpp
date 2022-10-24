@@ -12,17 +12,30 @@ class Solution{
 public:
     int remove_duplicate(int a[],int n){
         // code here
-        int temp[n];
-        temp[0] = a[0];
-        int res =  1;
+        // T.C => O(N)
+        // S.C. => O(N)
+        // int temp[n];
+        // temp[0] = a[0];
+        // int res =  1;
+        // for(int i = 1; i < n; i++) {
+        //     if(temp[res-1] != a[i]){
+        //         temp[res] = a[i];
+        //         res++;
+        //     }
+        // }
+        // for(int i = 0; i < n; i++) {
+        //     a[i] = temp[i];
+        // }
+        // return res;
+        
+        // T.C => O(N)
+        // S.C. => O(1)
+        int res = 1;
         for(int i = 1; i < n; i++) {
-            if(temp[res-1] != a[i]){
-                temp[res] = a[i];
+            if(a[i] != a[res - 1]){
+                a[res] = a[i];
                 res++;
             }
-        }
-        for(int i = 0; i < n; i++) {
-            a[i] = temp[i];
         }
         return res;
     }
