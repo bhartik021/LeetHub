@@ -10,15 +10,17 @@ class Solution{
     vector<int> countFreq(int a[], int n) 
     { 
         // Complete the function
-        vector<int> v;
-        sort(a,a+n);
-        for(int i = 1; i < n ; i++){
-            if(a[i] != a[i-1])
-                v.push_back(i);
+        map<int, int>m;
+        vector<int>ans;
+        for(int i = 0; i < n; i++) {
+            m[a[i]]++;
         }
-        
-        v.push_back(n);
-        return v;
+        int sum = 0;
+        for(auto it:m){
+            sum+=it.second; 
+            ans.push_back(sum);
+        }
+        return ans;
     } 
 };
 
