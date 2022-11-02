@@ -12,12 +12,25 @@ using namespace std;
 */
 int findFrequency(vector<int> v, int x){
     // Your code here
-    int count = 0;
-    for(int i = 0 ; i < v.size(); i++) {
+    
+    //Brute force approcah
+    // int count = 0;
+    // for(int i = 0 ; i < v.size(); i++) {
+    //     if(v[i] == x)
+    //     count++;
+    // }
+    // return count;
+    
+    //using map
+    unordered_map<int, int>mp;
+    for(int i = 0; i < v.size(); i++) {
         if(v[i] == x)
-        count++;
+        mp[x]++;
     }
-    return count;
+    if(mp.size() != 0) {
+        return mp[x];
+    }
+    return 0;
 }
 
 //{ Driver Code Starts.
