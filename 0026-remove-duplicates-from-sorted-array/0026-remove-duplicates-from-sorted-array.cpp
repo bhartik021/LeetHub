@@ -23,15 +23,15 @@ public:
 
         // T.C => O(N)
         // S.C. => O(1)
-        int n = nums.size();
-        int res = 1;
-        for(int i = 1; i < n; i++){
-            if(nums[res-1] != nums[i]){
-                nums[res] = nums[i];
-                res++;
-            }
-        }
-        return res;
+        // int n = nums.size();
+        // int res = 1;
+        // for(int i = 1; i < n; i++){
+        //     if(nums[res-1] != nums[i]){
+        //         nums[res] = nums[i];
+        //         res++;
+        //     }
+        // }
+        // return res;
         
         //==================================================
         // set<int>st;
@@ -41,5 +41,15 @@ public:
         // for(auto it: st) {
         //     nums[]
         // }
-    }
+        
+        set<int>ans;
+        for(int i = 0; i < nums.size(); i++) 
+            ans.insert(nums[i]);
+            int index = 0;
+            for(auto it:ans) {
+                nums[index] = it;
+                index++;
+            }
+        return index;
+        }
 };
