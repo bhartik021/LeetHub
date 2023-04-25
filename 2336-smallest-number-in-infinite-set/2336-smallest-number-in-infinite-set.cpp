@@ -2,7 +2,7 @@ class SmallestInfiniteSet {
 public:
     set<int>s;
     SmallestInfiniteSet() {
-     for(int i = 1; i < 1005; i++)
+     for(int i = 1; i < 1015; i++)
          s.insert(i);
     }
     
