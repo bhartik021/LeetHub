@@ -87,19 +87,30 @@ Node* sortedMerge(Node* head1, Node* head2)
     // code here
     if(head1 == NULL) return head2;
     if(head2 == NULL) return head1;
-        
-     if(head1->data > head2->data) {
-         swap(head1, head2);
-     }
-    Node* result = head1;
+    
+    Node* dummyNode = new Node(0);
+    Node* current = dummyNode;
+    
     while(head1 != NULL && head2 != NULL) {
-        Node* tmp = NULL;
-        while(head1 != NULL && head1->data <= head2->data) {
-            tmp = head1;
+        if(head1->data <= head2->data) {
+            current->next = head1;
             head1 = head1->next;
+        }else {
+            current->next = head2;
+            head2 = head2->next;
         }
-        tmp->next = head2;
-        swap(head1, head2);
+        
+        current = current->next;
+        
     }
-        return result;
+    
+    if(head1 != NULL) {
+        current->next = head1;
+    }
+    
+    if(head2 != NULL) {
+        current->next = head2;
+    }
+    
+    return dummyNode->next;
 }  
