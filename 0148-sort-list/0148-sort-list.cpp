@@ -10,25 +10,54 @@
  */
 class Solution {
 public:
+    
+    ListNode* Mid(ListNode* head) {
+    ListNode* slow = head;
+    ListNode* fast = head;
+    
+    while(fast->next != NULL && fast->next->next != NULL) {
+        slow = slow->next;
+        fast = fast->next->next;
+    } 
+        return slow;
+    }
+    
+    ListNode* mergeSortedList(ListNode *p1, ListNode *p2){
+        if(p1 == NULL or p2 == NULL){
+            return (p1==NULL) ? p2 : p1;
+        }
+        
+        ListNode * ans = new ListNode(0);
+        ListNode* curr = ans;
+        
+        while(p1 != NULL and p2 != NULL){
+            if(p1->val < p2->val){
+                curr->next = p1;
+                p1= p1->next;
+            }else{
+                curr->next = p2;
+                p2 = p2->next;
+            }
+            curr = curr->next;
+        }
+        
+        if(p1 != NULL or p2 != NULL){
+            curr->next = (p1 != NULL) ?  p1 : p2;
+        }
+        return ans->next;
+    }
+    
     ListNode* sortList(ListNode* head) {
-    if(!head) return head;
-        vector<int> arr;
-        ListNode* cur = head;
+    if(head == NULL || head->next == NULL) return head;
         
-        while(cur){
-            arr.push_back(cur->val);
-            cur = cur->next;
-        }
+    ListNode* mid = Mid(head);
+    ListNode* newHead = mid->next;
+    mid->next = NULL;
         
-        sort(arr.begin(), arr.end());
+    ListNode* leftHalf = sortList(head);
+    ListNode* rightHalf = sortList(newHead);
         
-        cur = head;
-        int i = 0;
-        while(cur){
-            cur->val = arr[i++];
-            cur = cur->next;
-        }
+    return mergeSortedList(leftHalf, rightHalf);
         
-        return head;
     }
 };
