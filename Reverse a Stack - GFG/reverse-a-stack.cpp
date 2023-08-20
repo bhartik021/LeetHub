@@ -10,17 +10,34 @@ using namespace std;
 
 class Solution{
 public:
+void Reverse(stack<int>&s, vector<int>&vec) {
+    if(s.size() == 0) {
+            return;
+    }
+        
+    vec.push_back(s.top());
+    s.pop();
+    Reverse(s, vec);
+    s.push(vec[s.size()]);
+    }
+
     void Reverse(stack<int> &St){
-      stack<int>s2;
-      if(St.size() <= 1) {
-          return;
-      }
-      while(!St.empty()) {
-          int top = St.top();
-          St.pop();
-          s2.push(top);
-      }
-      St = s2;
+     vector<int>v;
+     Reverse(St, v);
+     
+    // ========= WITHOUT RECURSION ============== // 
+     
+    // void Reverse(stack<int> &St){
+    //   stack<int>s2;
+    //   if(St.size() <= 1) {
+    //       return;
+    //   }
+    //   while(!St.empty()) {
+    //       int top = St.top();
+    //       St.pop();
+    //       s2.push(top);
+    //   }
+    //   St = s2;
     }
 };
 
