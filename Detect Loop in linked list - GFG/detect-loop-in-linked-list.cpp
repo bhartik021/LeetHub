@@ -42,20 +42,11 @@ struct Node
     }
 
 */
-class Solution
-{
+class Solution {
     public:
-    //Function to check if the linked list has a loop.
-    bool detectLoop(Node* head)
-    {
-        // your code here
-        if(head == NULL && head->next == NULL) {
-            return false;
-        }
-        
+    bool detectLoop(Node* head) {
         Node* slow = head;
         Node* fast = head;
-        
         while(fast != NULL && fast->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
