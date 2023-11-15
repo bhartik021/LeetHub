@@ -45,6 +45,9 @@ struct Node
 class Solution {
     public:
     bool detectLoop(Node* head) {
+        if(head == NULL || head->next == NULL) {
+            return false;
+        }
         Node* slow = head;
         Node* fast = head;
         while(fast != NULL && fast->next != NULL) {
