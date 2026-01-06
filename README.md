@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bhartik021/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bhartik021/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 ## Array
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhartik021/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhartik021/LeetHub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bhartik021/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Math
 |  |
 | ------- |
