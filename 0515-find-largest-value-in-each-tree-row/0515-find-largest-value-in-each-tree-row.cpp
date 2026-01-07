@@ -16,8 +16,8 @@ public:
     queue<TreeNode*>q; 
     if(!root) return result;
     q.push(root);
-    int maxValue = INT_MIN;
     while(!q.empty()) {
+        int maxValue = INT_MIN;
         int size = q.size();
         for(int i = 0; i < size; i++) {
         TreeNode* node = q.front();
