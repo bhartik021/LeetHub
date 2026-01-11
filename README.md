@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhartik021/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bhartik021/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhartik021/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhartik021/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bhartik021/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhartik021/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
