@@ -12,34 +12,39 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-    if (!root) return nullptr;
+    if(!root) return NULL;
 
-        if (key < root->val) {
-            root->left = deleteNode(root->left, key);
+    if(key < root->val) {
+        root->left = deleteNode(root->left, key);
+    }  
+
+    else if(key > root->val) {
+        root->right = deleteNode(root->right, key);
+    }
+
+    else {
+        if(!root->left) {
+            TreeNode* temp = root->right;
+            delete root;
+            return temp;
         }
-        else if (key > root->val) {
-            root->right = deleteNode(root->right, key);
-        }
-        else {
-            // Case 1: No child
-            if (!root->left && !root->right) {
-                delete root;
-                return nullptr;
-            }
 
-            if (!root->left || !root->right) {
-                TreeNode* child = root->left ? root->left : root->right;
-                delete root;
-                return child;
-            }
-
+        if(!root->right) {
             TreeNode* temp = root->left;
-            while (temp->right)
-                temp = temp->right;
-
-            root->val = temp->val;
-            root->left = deleteNode(root->left, temp->val);
+            delete root;
+            return temp;
         }
-        return root;    
+
+        TreeNode* successor = findMin(root->right);
+        root->val = successor->val;
+        root->right = deleteNode(root->right, successor->val);
+    }
+    return root;
+    }
+
+    TreeNode* findMin(TreeNode* node) {
+        while(node->left)
+            node = node->left;
+        return node;
     }
 };
