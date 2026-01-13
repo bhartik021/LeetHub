@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode* root, vector<int>&ans) {
+    void inOrder(TreeNode* root, vector<int>&ans) {
         if(!root) return;
+        inOrder(root->left, ans);
         ans.push_back(root->val);
-        preOrder(root->left, ans);
-        preOrder(root->right, ans);
+        inOrder(root->right, ans);
     }
     int kthSmallest(TreeNode* root, int k) {
     vector<int>ans;
-    preOrder(root, ans);  
-    sort(ans.begin(), ans.end());  
+    inOrder(root, ans);  
     return ans[k-1];
     }
 };
