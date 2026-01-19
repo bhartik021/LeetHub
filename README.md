@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/bhartik021/LeetHub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
