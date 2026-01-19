@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int& sum){
-        if(root==NULL) return;
-        solve(root->right, sum);
-        sum+=root->val;
-        root->val=sum;
-        solve(root->left, sum);
+    void reverseInOrder(TreeNode* root, int &sum) {
+        if(!root) return;
+        reverseInOrder(root->right, sum);
+        sum += root->val;
+        root->val = sum;
+        reverseInOrder(root->left, sum);
     }
     TreeNode* convertBST(TreeNode* root) {
-        int sum=0;
-        solve(root, sum);
-        return root;
+    int sum = 0;
+    reverseInOrder(root, sum);
+    return root;    
     }
 };
