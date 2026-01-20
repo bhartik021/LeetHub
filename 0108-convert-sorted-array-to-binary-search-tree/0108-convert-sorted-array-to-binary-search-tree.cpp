@@ -21,6 +21,6 @@ public:
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
     int n = nums.size();
-    return constructTree(nums, 0, n - 1);
+    return constructTree(nums, 0, n - 1);    
     }
 };
