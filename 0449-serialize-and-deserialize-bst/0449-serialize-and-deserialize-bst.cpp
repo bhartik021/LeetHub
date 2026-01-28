@@ -14,20 +14,19 @@ public:
     string serialize(TreeNode* root) {
     if(!root) return "";
     string result = "";
-
     queue<TreeNode*>q;
     q.push(root);
     while(!q.empty()) {
-        TreeNode* node = q.front();
+        TreeNode *node = q.front();
         q.pop();
         if(node == NULL) result.append("*,");
-        else result.append(to_string(node->val) + ',');
+        else result.append(to_string(node->val)+',');
         if(node != NULL) {
             q.push(node->left);
             q.push(node->right);
         }
-    }
-    return result;    
+    }  
+    return result;  
     }
 
     // Decodes your encoded data to tree.
@@ -36,11 +35,11 @@ public:
     stringstream result(data);
     string str;
     getline(result, str, ',');
-    TreeNode *root = new TreeNode(stoi(str));
+    TreeNode *root = new TreeNode(stoi(str));  
     queue<TreeNode*>q;
-    q.push(root);
+    q.push(root); 
     while(!q.empty()) {
-        TreeNode *node = q.front();
+        TreeNode* node = q.front();
         q.pop();
 
         getline(result, str, ',');
@@ -60,8 +59,8 @@ public:
             node->right = rightNode;
             q.push(rightNode);
         }
-    }
-    return root;    
+    } 
+    return root;
     }
 };
 
