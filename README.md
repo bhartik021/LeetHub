@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bhartik021/LeetHub/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/bhartik021/LeetHub/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bhartik021/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/bhartik021/LeetHub/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhartik021/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
