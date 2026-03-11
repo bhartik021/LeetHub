@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bhartik021/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhartik021/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
