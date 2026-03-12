@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhartik021/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
