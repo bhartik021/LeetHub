@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/bhartik021/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bhartik021/LeetHub/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bhartik021/LeetHub/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
