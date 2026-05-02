@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhartik021/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhartik021/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bhartik021/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhartik021/LeetHub/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
