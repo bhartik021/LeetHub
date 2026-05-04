@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bhartik021/LeetHub/tree/master/0383-ransom-note) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhartik021/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
