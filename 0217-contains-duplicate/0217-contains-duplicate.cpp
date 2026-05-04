@@ -20,12 +20,21 @@ public:
     // }
 
     // 3rd approach - hash set
-    unordered_set<int>seen;
+    // unordered_set<int>seen;
+    // for(int n : nums) {
+    //     if(seen.count(n) > 0) 
+    //     return true;
+    //     seen.insert(n);
+    // }
+    // return false;
+    // }
+
+    // 4th approach - hash map
+    unordered_map<int, int>seen;
     for(int n : nums) {
-        if(seen.count(n) > 0) 
-        return true;
-        seen.insert(n);
-    }
+        if(seen[n] >= 1) return true;
+        seen[n]++;
+    } 
     return false;
     }
 };
