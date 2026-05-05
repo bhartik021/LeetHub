@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/bhartik021/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhartik021/LeetHub/tree/master/0219-contains-duplicate-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhartik021/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/bhartik021/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhartik021/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhartik021/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
