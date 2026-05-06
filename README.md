@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhartik021/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhartik021/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/bhartik021/LeetHub/tree/master/0567-permutation-in-string) |
