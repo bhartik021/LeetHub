@@ -2,12 +2,12 @@ class Solution {
 public:
     string frequencySort(string s) {
     unordered_map<char, int>mp;
-    for(char c : s) {
-        mp[c]++;
+    for(char ch : s) {
+        mp[ch]++;
     }    
-    
-    priority_queue<pair<int, char>>maxHeap;
 
+    // maxHeap to access largest quickly
+    priority_queue<pair<int, char>>maxHeap;
     for(auto it : mp) {
         char ch = it.first;
         int freq = it.second;
@@ -19,11 +19,12 @@ public:
     while(!maxHeap.empty()) {
         int freq = maxHeap.top().first;
         char ch = maxHeap.top().second;
-
+        
         maxHeap.pop();
 
         result += string(freq, ch);
     }
+
     return result;
     }
 };
