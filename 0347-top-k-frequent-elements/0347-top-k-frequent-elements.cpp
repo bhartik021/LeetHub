@@ -6,12 +6,10 @@ public:
         mp[num]++;
     }    
 
-    // minHeap 
-    priority_queue<
-    pair<int, int>,
+    // minHeap to remove less freq number
+    priority_queue<pair<int, int>,
     vector<pair<int, int>>,
-    greater<pair<int, int>>
-    > minHeap;
+    greater<pair<int, int>>> minHeap;
 
     for(auto it : mp) {
         int number = it.first;
@@ -23,8 +21,7 @@ public:
             minHeap.pop();
         }
     }
-
-    // to collect answer
+    // extract ans
     vector<int>ans;
     while(!minHeap.empty()) {
         ans.push_back(minHeap.top().second);
