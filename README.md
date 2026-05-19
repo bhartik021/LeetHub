@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhartik021/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhartik021/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhartik021/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
