@@ -5,6 +5,7 @@ public:
     unordered_map<int, int>mp;
     for(int num : arr) {
         int rem = num % k;
+        // to handle negative numbers
         if(rem < 0) {
             rem += k;
         }
