@@ -1,63 +1,58 @@
 class LRUCache {
 public:
     int cap;
-
-    // doubly linked list as a pair
+    // doubly linked list
     list<pair<int, int>>dll;
 
-    // hashmap to store
-    unordered_map<int, list<pair<int,int>>::iterator> mp;
-
+    // map
+    unordered_map<int, list<pair<int, int>>::iterator>mp;
 
     LRUCache(int capacity) {
-       cap = capacity; 
+        cap = capacity;
     }
     
     int get(int key) {
-        // if key is not present
+        // check if exists in map if no return -1
         if(mp.find(key) == mp.end()) {
             return -1;
         }
 
-        // iterator of node
+        // iterator to node
         auto it = mp[key];
-        
+
         int value = it->second;
 
-        //remove current position
+        // remove current position form dll
         dll.erase(it);
 
-        // moving to font recencylt used one
+        // move this iterator to front (recently used one)
         dll.push_front({key, value});
 
-        // update iterator
+        // update iterartor
         mp[key] = dll.begin();
 
         return value;
-
     }
     
     void put(int key, int value) {
-        // case 1 : if key is already present
+        // case 1 : if already present
         if(mp.find(key) != mp.end()) {
-            // will remove old key 
             dll.erase(mp[key]);
         }
 
-        // case 2 : cache full (if there is no space)
+        // case 2 : size oveflow - like cache full - if there is no space
         else if(dll.size() == cap) {
-            // will take out lease recently used node 
+            // will take out least recently used
             auto last = dll.back();
             // remove from map
             mp.erase(last.first);
-            // remove from list
+            // remove from the list
             dll.pop_back();
         }
 
-        // add new node to front
+        // will add at front
         dll.push_front({key, value});
-
-        // store iterator 
+        // store iterator
         mp[key] = dll.begin();
     }
 };
