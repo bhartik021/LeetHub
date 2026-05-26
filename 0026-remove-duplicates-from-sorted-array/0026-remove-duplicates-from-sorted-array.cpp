@@ -7,7 +7,7 @@ public:
             nums[count] = nums[i];
             count++;
         }
-    }    
+    }
     return count;
     }
 };
