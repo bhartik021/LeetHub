@@ -7,7 +7,9 @@ public:
             clean += tolower(c);
         }
     }    
+
     int n = clean.size();
+
     for(int i = 0; i < n/2; i++) {
         if(clean[i] != clean[n-1-i]) {
             return false;
