@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhartik021/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bhartik021/LeetHub/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhartik021/LeetHub/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bhartik021/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
