@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhartik021/LeetHub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhartik021/LeetHub/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bhartik021/LeetHub/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/bhartik021/LeetHub/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhartik021/LeetHub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhartik021/LeetHub/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhartik021/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
@@ -447,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhartik021/LeetHub/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
