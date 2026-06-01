@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/bhartik021/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/bhartik021/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/bhartik021/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bhartik021/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhartik021/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhartik021/LeetHub/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/bhartik021/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
