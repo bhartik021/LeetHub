@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/bhartik021/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/bhartik021/LeetHub/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
