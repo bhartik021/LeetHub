@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/bhartik021/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [3379-transformed-array](https://github.com/bhartik021/LeetHub/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/bhartik021/LeetHub/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/bhartik021/LeetHub/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/bhartik021/LeetHub/tree/master/1920-build-array-from-permutation) |
+| [3379-transformed-array](https://github.com/bhartik021/LeetHub/tree/master/3379-transformed-array) |
 ## Recursion
 |  |
 | ------- |
