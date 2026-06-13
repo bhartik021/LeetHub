@@ -11,7 +11,7 @@ public:
         }else if(num > second) {
             third = second;
             second = num;
-        }else {
+        }else if(num > third){
             third = num;
         }
     }    
