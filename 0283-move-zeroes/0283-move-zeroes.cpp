@@ -7,6 +7,6 @@ public:
             swap(nums[i], nums[k]);
             k++;
         }
-    }   
+    }    
     }
 };
