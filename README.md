@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/bhartik021/LeetHub/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/bhartik021/LeetHub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhartik021/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhartik021/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/bhartik021/LeetHub/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bhartik021/LeetHub/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
