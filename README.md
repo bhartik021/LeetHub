@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhartik021/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhartik021/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bhartik021/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhartik021/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhartik021/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhartik021/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhartik021/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhartik021/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhartik021/LeetHub/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhartik021/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bhartik021/LeetHub/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bhartik021/LeetHub/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
