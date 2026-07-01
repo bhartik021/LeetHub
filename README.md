@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bhartik021/LeetHub/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bhartik021/LeetHub/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
