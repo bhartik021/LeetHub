@@ -8,7 +8,8 @@ public:
     // return n == 1;  
 
     if(n <= 0) return false;
-    //Remove the rightmost set bit
+    //Remove the rightmost set bit 
+    // number ko pick kia aur number ko and (&) krdia number k previous number ki binary digite (n - 1) se
     return (n & (n - 1)) == 0;
     }
 };
