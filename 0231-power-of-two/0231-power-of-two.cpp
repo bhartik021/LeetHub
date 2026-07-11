@@ -9,7 +9,7 @@ public:
 
     if(n <= 0) return false;
     //Remove the rightmost set bit 
-    // number ko pick kia aur number ko and (&) krdia number k previous number ki binary digite (n - 1) se
+    // number ko pick kia aur number ko and (&) krdia number k previous number ki binary digite (n - return (n & (n - 1)) == 0;
     return (n & (n - 1)) == 0;
     }
 };
