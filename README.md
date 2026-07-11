@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/bhartik021/LeetHub/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhartik021/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bhartik021/LeetHub/tree/master/0326-power-of-three) |
 ## Union-Find
 |  |
 | ------- |
