@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bhartik021/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bhartik021/LeetHub/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/bhartik021/LeetHub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/bhartik021/LeetHub/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhartik021/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bhartik021/LeetHub/tree/master/0342-power-of-four) |
 ## Union-Find
 |  |
 | ------- |
