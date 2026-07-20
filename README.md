@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhartik021/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhartik021/LeetHub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bhartik021/LeetHub/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/bhartik021/LeetHub/tree/master/0076-minimum-window-substring) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/bhartik021/LeetHub/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/bhartik021/LeetHub/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bhartik021/LeetHub/tree/master/0257-binary-tree-paths) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
 ## Monotonic Stack
