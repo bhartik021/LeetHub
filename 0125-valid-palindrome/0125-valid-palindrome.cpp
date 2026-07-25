@@ -1,16 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-    string clean = "";
+    string filteration;
     for(char c : s) {
         if(isalnum(c)) {
-            clean += tolower(c);
+            filteration += tolower(c);
         }
-    }   
-
-    int n = clean.size();
-    for(int i = 0; i < n/2; i++) {
-        if(clean[i] != clean[n - 1 - i]) return false;
+    }  
+    int left = 0;
+    int right = filteration.size() - 1;
+    while(left < right) {
+        if(filteration[left] != filteration[right]){
+            return false;
+        }
+        left++;
+        right--;
     }
     return true;
     }
