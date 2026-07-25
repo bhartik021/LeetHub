@@ -6,6 +6,7 @@ public:
     for(char j : jewels) {
         jset.insert(j);
     }
+
     for(char s : stones) {
         if(jset.count(s)) count++;
     }
