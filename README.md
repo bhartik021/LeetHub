@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bhartik021/LeetHub/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/bhartik021/LeetHub/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/bhartik021/LeetHub/tree/master/0771-jewels-and-stones) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhartik021/LeetHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2833-furthest-point-from-origin](https://github.com/bhartik021/LeetHub/tree/master/2833-furthest-point-from-origin) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhartik021/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/bhartik021/LeetHub/tree/master/0771-jewels-and-stones) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
