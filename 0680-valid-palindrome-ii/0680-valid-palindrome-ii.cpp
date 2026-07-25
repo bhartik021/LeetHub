@@ -6,7 +6,6 @@ public:
         }
         return true;
     }
-    
     bool validPalindrome(string s) {
     int left = 0, right = s.size() - 1;
     while(left < right) {
