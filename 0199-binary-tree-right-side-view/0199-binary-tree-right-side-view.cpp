@@ -19,11 +19,11 @@ public:
     while(!q.empty()) {
         int size = q.size();
         for(int i = 0; i < size; i++) {
-            TreeNode* node = q.front();
+            TreeNode* data = q.front();
             q.pop();
-            if(size - 1 == i) result.push_back(node->val);
-            if(node->left) q.push(node->left);
-            if(node->right) q.push(node->right);
+            if(size - 1 == i) result.push_back(data->val);
+            if(data->left) q.push(data->left);
+            if(data->right) q.push(data->right);
         }
     }    
     return result;
