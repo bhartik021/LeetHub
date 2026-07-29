@@ -1,32 +1,30 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
+    // will store numbers along with its freq in map
     unordered_map<int, int>mp;
     for(int num : nums) {
         mp[num]++;
-    }    
+    }  
 
-    // minHeap to remove less freq number
-    priority_queue<pair<int, int>,
-    vector<pair<int, int>>,
-    greater<pair<int, int>>> minHeap;
+    // will create bucket here of give array size + 1
+    vector<vector<int>>bucket(nums.size() + 1);
 
-    for(auto it : mp) {
-        int number = it.first;
-        int freq = it.second;
-
-        minHeap.push({freq, number});
-
-        if(minHeap.size() > k) {
-            minHeap.pop();
+        // iterate over map and push element in the bucket 
+        for(auto it : mp) {
+            bucket[it.second].push_back(it.first);
         }
-    }
-    // extract ans
-    vector<int>ans;
-    while(!minHeap.empty()) {
-        ans.push_back(minHeap.top().second);
-        minHeap.pop();
-    }
-    return ans;
+
+        // will return this vector ans
+        vector<int>ans;
+
+        // will taverse over bucket from back side
+        for(int i = bucket.size() - 1; i >= 0 && ans.size() < k; i--) {
+            for(int num: bucket[i]) {
+                ans.push_back(num);
+                if(ans.size() == k) break;
+            }    
+        }
+        return ans;
     }
 };
