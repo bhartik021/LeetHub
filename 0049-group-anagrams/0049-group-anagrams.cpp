@@ -7,10 +7,11 @@ public:
         sort(key.begin(), key.end());
         mp[key].push_back(word);
     }    
-    vector<vector<string>>ans;
+
+    vector<vector<string>>result;
     for(auto it : mp) {
-        ans.push_back(it.second);
+        result.push_back(it.second);
     }
-    return ans;
+    return result;
     }
 };
