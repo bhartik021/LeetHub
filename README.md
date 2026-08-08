@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/bhartik021/LeetHub/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhartik021/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhartik021/LeetHub/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhartik021/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhartik021/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
