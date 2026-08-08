@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bhartik021/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhartik021/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhartik021/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhartik021/LeetHub/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhartik021/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhartik021/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhartik021/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
