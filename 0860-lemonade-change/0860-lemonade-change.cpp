@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
+    // time complexity => O(n)
     int five = 0, ten = 0;
     for(int i = 0; i < bills.size(); i++) {
         // case 1 : if the bill is 5 , i'll take 5
