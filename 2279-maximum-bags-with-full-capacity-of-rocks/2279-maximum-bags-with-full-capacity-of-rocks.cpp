@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maximumBags(vector<int>& capacity, vector<int>& rocks, int additionalRocks) {
+    // time complexity => O(n)
+    // space complexity => O(n)
+    
     // maximum number of full capacity bags
     int fullCapacityMaximumBags = 0;
 
