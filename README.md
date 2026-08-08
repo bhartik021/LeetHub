@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1672-richest-customer-wealth](https://github.com/bhartik021/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/bhartik021/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhartik021/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhartik021/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhartik021/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhartik021/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
