@@ -6,6 +6,9 @@ public:
     }
 
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
+    // grredy approach 
+    // time complexity => O(n log n)
+    // space complexity => O(n)
     // create an vector of merged intervals that needs to be return
     vector<vector<int>>mergedIntervals;
 
