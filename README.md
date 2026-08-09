@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhartik021/LeetHub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bhartik021/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhartik021/LeetHub/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhartik021/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhartik021/LeetHub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhartik021/LeetHub/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhartik021/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/bhartik021/LeetHub/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhartik021/LeetHub/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhartik021/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
