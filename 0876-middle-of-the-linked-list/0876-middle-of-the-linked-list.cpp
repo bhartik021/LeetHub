@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+    // time complexity => O(n) // because fast pointers traverse whole linked list
+    // space complexity => O(1) // becuase we are using two points only and no other data structure
     ListNode* slow = head;
     ListNode* fast = head;
 
