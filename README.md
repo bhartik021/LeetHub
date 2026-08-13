@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/bhartik021/LeetHub/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/bhartik021/LeetHub/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/bhartik021/LeetHub/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/bhartik021/LeetHub/tree/master/0904-fruit-into-baskets) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/bhartik021/LeetHub/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/bhartik021/LeetHub/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 ## Brainteaser
 |  |
