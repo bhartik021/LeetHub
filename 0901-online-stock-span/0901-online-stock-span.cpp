@@ -1,7 +1,6 @@
 class StockSpanner {
 public:
     stack<pair<int, int>>s;
-
     StockSpanner() {
         
     }
@@ -11,8 +10,8 @@ public:
     while(!s.empty() && s.top().first <= price) {
         span += s.top().second;
         s.pop();
-    }    
-    s.push({price, span});
+    }  
+    s.push({price, span}); 
     return span;
     }
 };
