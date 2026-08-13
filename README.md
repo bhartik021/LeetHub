@@ -620,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bhartik021/LeetHub/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
