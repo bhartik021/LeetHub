@@ -10,7 +10,7 @@ public:
         if(s[i] == ')') {
             if(!st.empty() && st.top() == '(') {
                 st.pop();
-            } else {
+            }else {
                 return false;
             }
         }
@@ -18,23 +18,24 @@ public:
         if(s[i] == '}') {
             if(!st.empty() && st.top() == '{') {
                 st.pop();
-            } else {
+            }else {
                 return false;
             }
         }
+
 
         if(s[i] == ']') {
             if(!st.empty() && st.top() == '[') {
                 st.pop();
-            } else {
+            }else {
                 return false;
             }
         }
-    } 
+    }    
 
     if(st.empty()) {
         return true;
-    } else {
+    }else {
         return false;
     }
     }
