@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/bhartik021/LeetHub/tree/master/0449-serialize-and-deserialize-bst) |
+| [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 ## Brainteaser
 |  |
 | ------- |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhartik021/LeetHub/tree/master/0022-generate-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bhartik021/LeetHub/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
