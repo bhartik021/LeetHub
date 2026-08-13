@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhartik021/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhartik021/LeetHub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhartik021/LeetHub/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhartik021/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bhartik021/LeetHub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhartik021/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhartik021/LeetHub/tree/master/0169-majority-element) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhartik021/LeetHub/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/bhartik021/LeetHub/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhartik021/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhartik021/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/bhartik021/LeetHub/tree/master/0739-daily-temperatures) |
