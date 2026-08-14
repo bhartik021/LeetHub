@@ -25,7 +25,7 @@ public:
             if(data->left) q.push(data->left);
             if(data->right) q.push(data->right);
         }
-    }    
-    return result;
+    }   
+    return result; 
     }
 };
