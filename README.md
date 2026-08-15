@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhartik021/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/bhartik021/LeetHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bhartik021/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhartik021/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhartik021/LeetHub/tree/master/0056-merge-intervals) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhartik021/LeetHub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/bhartik021/LeetHub/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhartik021/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhartik021/LeetHub/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bhartik021/LeetHub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhartik021/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhartik021/LeetHub/tree/master/0067-add-binary) |
