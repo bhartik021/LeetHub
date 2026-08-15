@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/bhartik021/LeetHub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhartik021/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bhartik021/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhartik021/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhartik021/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhartik021/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bhartik021/LeetHub/tree/master/0704-binary-search) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhartik021/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/bhartik021/LeetHub/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhartik021/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/bhartik021/LeetHub/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bhartik021/LeetHub/tree/master/0567-permutation-in-string) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhartik021/LeetHub/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bhartik021/LeetHub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/bhartik021/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bhartik021/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bhartik021/LeetHub/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/bhartik021/LeetHub/tree/master/0476-number-complement) |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhartik021/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhartik021/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
@@ -657,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhartik021/LeetHub/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bhartik021/LeetHub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
