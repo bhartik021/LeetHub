@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhartik021/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhartik021/LeetHub/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bhartik021/LeetHub/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhartik021/LeetHub/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/bhartik021/LeetHub/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bhartik021/LeetHub/tree/master/1672-richest-customer-wealth) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhartik021/LeetHub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhartik021/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/bhartik021/LeetHub/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/bhartik021/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/bhartik021/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhartik021/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
