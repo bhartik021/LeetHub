@@ -41,8 +41,6 @@ public:
     // }
 
     void setZeroes(vector<vector<int>>& matrix) {
-        // t.c => O(nxm)
-        // s.c => O(n) + O(m)
         int n = matrix.size();
         int m = matrix[0].size();
 
@@ -61,7 +59,7 @@ public:
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(row[i] == 1 || col[j] == 1) {
-                    matrix[i][j] = 0;
+                    matrix[i][j] = 0; 
                 }
             }
         }
