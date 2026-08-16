@@ -11,12 +11,14 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
+    // t.c => O(n)
+    // s.c => O(n)
     ListNode* current = head;
     stack<int>st;
     while(current != NULL) {
         st.push(current->val);
         current = current->next;
-    }
+    }    
 
     while(head != NULL) {
         int store = st.top();
@@ -27,7 +29,5 @@ public:
         head = head->next;
     }
     return true;
-
     }
 };
-
