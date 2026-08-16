@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhartik021/LeetHub/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/bhartik021/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhartik021/LeetHub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bhartik021/LeetHub/tree/master/0048-rotate-image) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhartik021/LeetHub/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhartik021/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bhartik021/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bhartik021/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhartik021/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhartik021/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bhartik021/LeetHub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhartik021/LeetHub/tree/master/0206-reverse-linked-list) |
