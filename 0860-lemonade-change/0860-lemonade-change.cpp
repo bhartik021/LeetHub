@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-    sort(bills.begin(), bills.end());
     int five = 0, ten = 0;
+
     for(int i = 0; i < bills.size(); i++) {
 
         if(bills[i] == 5) {
