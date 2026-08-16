@@ -19,11 +19,11 @@ public:
 
     for(int i = 0; i < n; i++) {
         fast = fast->next;
-    }
+    }    
 
     while(fast->next) {
-        fast = fast->next;
         slow = slow->next;
+        fast = fast->next;
     }
 
     ListNode* temp = slow->next;
