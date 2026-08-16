@@ -9,8 +9,6 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-    // time complexity => O(n)
-    // space complexity => O(1)
     ListNode* slow = head;
     ListNode* fast = head;
     ListNode* entry = head;
@@ -19,6 +17,7 @@ public:
         slow = slow->next;
         fast = fast->next->next;
 
+
         if(slow == fast) {
             while(slow != entry) {
                 slow = slow->next;
@@ -26,7 +25,8 @@ public:
             }
             return slow;
         }
-    }  
-    return NULL;  
+    }   
+
+    return NULL; 
     }
 };
