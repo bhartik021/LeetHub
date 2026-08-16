@@ -10,8 +10,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
     // time comoplexity => O(n)
-    // space complexity => O(1)
-
+    // space complexity => O(1)    
     ListNode* slow = head;
     ListNode* fast = head;
 
@@ -22,7 +21,7 @@ public:
         if(slow == fast) {
             return true;
         }
-    }    
-    return false;
+    } 
+    return false;    
     }
 };
