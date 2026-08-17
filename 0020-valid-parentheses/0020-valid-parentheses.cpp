@@ -23,7 +23,6 @@ public:
             }
         }
 
-
         if(s[i] == ']') {
             if(!st.empty() && st.top() == '[') {
                 st.pop();
@@ -31,12 +30,10 @@ public:
                 return false;
             }
         }
-    }    
-
+    } 
     if(st.empty()) {
         return true;
-    }else {
-        return false;
-    }
+    } 
+    return false;  
     }
 };
