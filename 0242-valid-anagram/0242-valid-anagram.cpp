@@ -11,11 +11,9 @@ public:
 
     for(char tt : t) {
         mp[tt]--;
-
         if(mp[tt] < 0) return false;
     }
 
     return true;
-    
     }
 };
