@@ -1,24 +1,57 @@
 class Solution {
 public:
+
+    bool isVowel(char ch) {
+        return ch == 'a' || ch == 'e' || 
+               ch == 'i' || ch == 'o' || 
+               ch == 'u';
+    }
+
     int maxVowels(string s, int k) {
-    // using sliding window
-    int count = 0;
-    int maxCount = 0;
-    for(int i = 0; i < k; i++) {
-        if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
-            count++;
+        int count = 0;
+
+        // first window
+        for(int i = 0; i < k; i++) {
+            if(isVowel(s[i])) {
+                count++;
+            }
         }
-    }
-    maxCount = count;
-    for(int i = k; i < s.size(); i++) {
-        if(s[i-k] == 'a' || s[i-k] == 'e' || s[i-k] == 'i' || s[i-k] == 'o' || s[i-k] == 'u') {
-            count--;
+
+        int ans = count;
+
+        // sliding window
+        for(int i = k; i < s.size(); i++) {
+
+            // removing prevous char
+            if(isVowel(s[i - k])) {
+                count--;
+            }
+
+            // adding new char
+            if(isVowel(s[i])) {
+                count++;
+            }
+
+            ans = max(ans, count);
         }
-        if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
-            count++;
-        }
-        maxCount = max(count, maxCount);
-    }
-    return maxCount;
+
+    return ans;
     }
 };
+
+// abciiidef
+// abc
+// bci
+// cii
+// iii
+// iid
+// ide
+// def
+// max ans 3 len
+
+// aeiou
+// ae
+// ei
+// io
+// ou
+// max ans 2 len
