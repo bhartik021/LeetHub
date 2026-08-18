@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/bhartik021/LeetHub/tree/master/0771-jewels-and-stones) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhartik021/LeetHub/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhartik021/LeetHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhartik021/LeetHub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/bhartik021/LeetHub/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhartik021/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhartik021/LeetHub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhartik021/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhartik021/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bhartik021/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhartik021/LeetHub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2833-furthest-point-from-origin](https://github.com/bhartik021/LeetHub/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhartik021/LeetHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhartik021/LeetHub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
