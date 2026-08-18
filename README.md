@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhartik021/LeetHub/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhartik021/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/bhartik021/LeetHub/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhartik021/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/bhartik021/LeetHub/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhartik021/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Stack
 |  |
 | ------- |
