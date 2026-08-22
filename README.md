@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhartik021/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhartik021/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhartik021/LeetHub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bhartik021/LeetHub/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
