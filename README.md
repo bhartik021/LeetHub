@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/bhartik021/LeetHub/tree/master/3379-transformed-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhartik021/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/bhartik021/LeetHub/tree/master/3637-trionic-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/bhartik021/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/bhartik021/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
