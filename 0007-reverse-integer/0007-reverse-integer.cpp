@@ -1,23 +1,24 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans = 0;
-        while(x != 0) {
+        
+    int ans = 0;
 
-        // accessing the last digit
+    while(x != 0) {
+        // accessing the last digit from x
         int digit = x % 10;
 
         if(ans > INT_MAX / 10 || ans == INT_MAX / 10 && digit > 7) return 0;
 
         if(ans < INT_MIN / 10 || ans == INT_MIN / 10 && digit < -8) return 0;
 
-        // adding last digit in ans
+        // adding the last digit in ans
         ans = ans * 10 + digit;
 
-        // removing the last digit
+        // removing the last digit 
         x /= 10;
-        }
-        
-        return ans;
+    }  
+
+    return ans;  
     }
 };
