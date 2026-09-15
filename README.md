@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/bhartik021/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/bhartik021/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhartik021/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/bhartik021/LeetHub/tree/master/1995-count-special-quadruplets) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhartik021/LeetHub/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhartik021/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhartik021/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhartik021/LeetHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhartik021/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhartik021/LeetHub/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhartik021/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhartik021/LeetHub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/bhartik021/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/bhartik021/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhartik021/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhartik021/LeetHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhartik021/LeetHub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhartik021/LeetHub/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/bhartik021/LeetHub/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhartik021/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/bhartik021/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/bhartik021/LeetHub/tree/master/1927-sum-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhartik021/LeetHub/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhartik021/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
