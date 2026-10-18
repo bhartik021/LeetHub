@@ -750,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhartik021/LeetHub/tree/master/0836-rectangle-overlap) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bhartik021/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
