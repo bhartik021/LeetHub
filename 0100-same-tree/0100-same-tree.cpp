@@ -11,15 +11,16 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* &p, TreeNode* &q) {
+    bool isSame(TreeNode* &p, TreeNode* q) {
         if(!p && !q) return true;
         if(!p || !q) return false;
+
         if(p->val != q->val) return false;
 
-        return isSame(p->left, q->left) && 
-               isSame(p->right, q->right);
+        return isSame(p->left, q->left) && isSame(p->right, q->right);
+
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-    return isSame(p, q);
+    return isSame(p, q);    
     }
 };
