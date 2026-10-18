@@ -15,7 +15,7 @@ public:
         if(!root) return;
         ans.push_back(root->val);
         dfs(root->left, ans);
-        dfs(root->right, ans);
+        dfs(root->right, ans);       
     }
     vector<int> preorderTraversal(TreeNode* root) {
     vector<int>ans;
