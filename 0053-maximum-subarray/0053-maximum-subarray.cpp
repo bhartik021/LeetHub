@@ -13,6 +13,11 @@ public:
     // return maxi;  
 
     // kadane' algo => O(n)
+
+    // If the previous running sum is negative, it will only decrease the sum, so start fresh.
+    // Otherwise, continue adding elements to the current subarray.
+    // Keep track of the maximum sum found so far.
+    
     int maxi = INT_MIN;
     int sum = 0;
     for(int i = 0; i < nums.size(); i++) {
