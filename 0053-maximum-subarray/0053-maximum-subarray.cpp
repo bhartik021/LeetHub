@@ -1,26 +1,25 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-    // t.c => O(n)^2
-    // int maxSum = nums[0];
-    // if(nums.empty()) return 0;
+    // brute force => O(n^2)
+    // int maxi = INT_MIN;
     // for(int i = 0; i < nums.size(); i++) {
     //     int sum = 0;
     //     for(int j = i; j < nums.size(); j++) {
     //         sum += nums[j];
-    //         maxSum = max(maxSum, sum);
+    //         maxi = max(maxi, sum);
     //     }
-    // }    
-    // return maxSum;
+    // }  
+    // return maxi;  
 
-    // t.c => O(n)
-    int maxSum = INT_MIN;
+    // kadane' algo => O(n)
+    int maxi = INT_MIN;
     int sum = 0;
-    for(auto num : nums) {
-        sum += num;
-        maxSum = max(maxSum, sum);
+    for(int i = 0; i < nums.size(); i++) {
+        sum += nums[i];
+        maxi = max(maxi, sum);
         if(sum < 0) sum = 0;
     }
-    return maxSum;
+    return maxi;
     }
 };
